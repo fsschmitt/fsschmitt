@@ -61,7 +61,10 @@ Previous experience with: Cloud native, Kubernetes, Helm, Containerd/Docker, AWS
 - 📫 How to reach me: [@schmittfelipe](https://twitter.com/schmittfelipe)
 - ⚡ Fun fact: I have worked on software houses, startups, IT consultancy and Venture Building
 
+<div align="left">
 <img alt="developer" src="https://raw.githubusercontent.com/fsschmitt/fsschmitt/main/developer.png" width="408" height="240" />
+<img alt="product-launch" src="https://raw.githubusercontent.com/fsschmitt/fsschmitt/main/product_launch.png" width="408" height="240"/>
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=fsschmitt.fsschmitt)
 
